@@ -61,5 +61,5 @@ This project demonstrates how to set up a two-stage AWS CodePipeline to automate
 By following these steps, you will set up a fully functional CI/CD pipeline using AWS services.
 
 ### [+] Find me on 
-<a href="https://m.me/https://www.linkedin.com/in/omarsamyi/" target="_blank"><img src="https://img.shields.io/badge/Messenger-https://www.linkedin.com/in/omarsamyi/-blue?style=for-the-badge&logo=messenger"></a>
+<a href="https://m.me/https://www.linkedin.com/in/omarsamyi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/omarsamyi/-blue?style=for-the-badge&logo=linkedin"></a>
 
